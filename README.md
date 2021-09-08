@@ -1,2 +1,2 @@
 # E2
-E2: classes, objetos, atributos e metódos
+E2: classes, objetos, atributos e métodos
